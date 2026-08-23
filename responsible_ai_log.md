@@ -1,4 +1,4 @@
-AI LOG - Network-issue
+RESPONSIBLE AI LOG - Network-issue
 
 This log documents cases where the AI diagnosis (produced using
 `diagnose_prompt.md`) required human correction after review against
