@@ -1,5 +1,5 @@
 """
-Network Issue - Rule-Based Config Checker
+Netsage AI - Rule-Based Config Checker
 Standalone script: scans cases.csv, predicts each case's category from
 its symptom text using keyword rules, and reports the AI agreement rate.
 Run with: python checker/rule_checker.py   (from the NetSage-AI root folder)
