@@ -1,2 +1,2 @@
-# Network-issue
+# Netsage AI
 AI Network Troubleshooting Assistant
